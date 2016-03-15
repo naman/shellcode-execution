@@ -1,0 +1,17 @@
+7ffff7a15000
+
+
+for rdi 
+00007ffff7a37b1
+
+for rsi
+00007ffff7b44dc1
+
+for rdx
+00007ffff7b1d145
+
+for execve
+00007ffff7ad6330
+
+for write
+00007ffff7b00860
